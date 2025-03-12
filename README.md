@@ -5,6 +5,10 @@
 
 Sou um desenvolvedor apaixonado por **programação**, **computação**, **Minecraft modding**, **Java** e **tecnologias emergentes**. Gosto de enfrentar desafios, criar soluções criativas e aprender constantemente. Aqui, você pode conhecer mais sobre meus projetos, hobbies e o que estou fazendo no mundo da tecnologia!
 
+## 🎓 Formação Acadêmica
+
+- 📚 Cursando **Ciência da Computação** no **ENIAC**
+
 ## 🛠️ Tecnologias que eu domino
 
 <kbd>![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)</kbd>
@@ -31,10 +35,8 @@ Sou um desenvolvedor apaixonado por **programação**, **computação**, **Minec
 - **[Desafio Itaú](https://github.com/MiguelLopesDel/Transaction-Api-Desafio-Itau)** - Resolução de um desafio proposto pelo banco Itaú para criação de uma API de transações.
 - **[Desafio de API de Notificações](https://github.com/MiguelLopesDel/api-agendamento-notificacao)** - Resolução de um desafio para criar uma API de agendamento de notificações.
 
-## 📬 Vamos nos conectar!
-
 [//]: # ([<kbd>![LinkedIn]&#40;https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&#41;</kbd>]&#40;https://www.linkedin.com/in/miguellopesdel&#41;)
-[<kbd>![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)</kbd>](https://github.com/MiguelLopesDel)
+[//]: #[<kbd>![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)</kbd>](https://github.com/MiguelLopesDel)
 
 ## 🎮 Quando não estou programando, você me encontra jogando:
 
