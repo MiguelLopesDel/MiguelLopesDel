@@ -25,10 +25,18 @@ Atualmente curso **Ciencia da Computacao** no **ENIAC** e venho aprofundando est
 
 ## Linguagens
 
-<p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MiguelLopesDel&theme=tokyonight" width="340" alt="Linguagens mais usadas por repositorio" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MiguelLopesDel&theme=tokyonight" width="340" alt="Linguagens mais usadas por commits" />
-</p>
+Percentuais calculados pelos bytes de codigo reportados pela API de linguagens do GitHub nos meus repositorios publicos.
+
+| Linguagem | Uso |
+| --- | ---: |
+| Python | 33.79% |
+| Java | 29.42% |
+| Rust | 14.65% |
+| JavaScript | 10.72% |
+| CSS | 4.82% |
+| Shell | 3.13% |
+| HTML | 1.47% |
+| Outras | 2.00% |
 
 ## Em estudo
 
@@ -47,10 +55,8 @@ Atualmente curso **Ciencia da Computacao** no **ENIAC** e venho aprofundando est
   </a>
 </p>
 
-## Atividade
+## Resumo GitHub
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MiguelLopesDel/MiguelLopesDel/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MiguelLopesDel/MiguelLopesDel/output/github-contribution-grid-snake.svg">
-  <img alt="Animacao das contribuicoes no GitHub" src="https://raw.githubusercontent.com/MiguelLopesDel/MiguelLopesDel/output/github-contribution-grid-snake.svg">
-</picture>
+<p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MiguelLopesDel&theme=tokyonight" alt="Resumo de contribuicoes no GitHub" />
+</p>
