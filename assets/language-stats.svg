@@ -23,7 +23,7 @@
 
     <text x="32" y="214" fill="#c0caf5">JavaScript</text>
     <rect x="138" y="199" width="520" height="20" rx="10" fill="#24283b"/>
-    <rect x="138" y="199" width="55.7" height="20" rx="10" fill="#f1e05a"/>
+    <rect x="138" y="199" width="55.8" height="20" rx="10" fill="#f1e05a"/>
     <text x="612" y="214" fill="#c0caf5" text-anchor="end">10.72%</text>
 
     <text x="32" y="248" fill="#c0caf5">CSS</text>
@@ -36,9 +36,10 @@
     <rect x="138" y="267" width="16.3" height="20" rx="10" fill="#89e051"/>
     <text x="612" y="282" fill="#c0caf5" text-anchor="end">3.13%</text>
 
-    <text x="32" y="316" fill="#c0caf5">HTML + outras</text>
+    <text x="32" y="316" fill="#c0caf5">Outras</text>
     <rect x="138" y="301" width="520" height="20" rx="10" fill="#24283b"/>
-    <rect x="138" y="301" width="18.0" height="20" rx="10" fill="#e34c26"/>
+    <rect x="138" y="301" width="18.0" height="20" rx="10" fill="#8fbcbb"/>
     <text x="612" y="316" fill="#c0caf5" text-anchor="end">3.47%</text>
+
   </g>
 </svg>
