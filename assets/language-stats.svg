@@ -1,9 +1,9 @@
 <svg width="720" height="360" viewBox="0 0 720 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
   <title id="title">Linguagens mais usadas</title>
-  <desc id="desc">Grafico com percentuais de linguagens calculados pelos bytes de codigo dos repositorios publicos.</desc>
+  <desc id="desc">Grafico com percentuais de linguagens usadas nos repositorios publicos.</desc>
   <rect width="720" height="360" rx="12" fill="#1a1b27"/>
   <text x="32" y="42" fill="#70a5fd" font-family="Segoe UI, Ubuntu, sans-serif" font-size="22" font-weight="700">Linguagens mais usadas</text>
-  <text x="32" y="68" fill="#a9b1d6" font-family="Segoe UI, Ubuntu, sans-serif" font-size="13">Baseado nos bytes de codigo dos repositorios publicos</text>
+  <text x="32" y="68" fill="#a9b1d6" font-family="Segoe UI, Ubuntu, sans-serif" font-size="13">Distribuicao por linguagem</text>
 
   <g font-family="Segoe UI, Ubuntu, sans-serif" font-size="14">
     <text x="32" y="112" fill="#c0caf5">Python</text>
