@@ -8,38 +8,38 @@
   <g font-family="Segoe UI, Ubuntu, sans-serif" font-size="14">
     <text x="32" y="112" fill="#c0caf5">Java</text>
     <rect x="138" y="97" width="520" height="20" rx="10" fill="#24283b"/>
-    <rect x="138" y="97" width="311.2" height="20" rx="10" fill="#b07219"/>
-    <text x="612" y="112" fill="#c0caf5" text-anchor="end">59.84%</text>
+    <rect x="138" y="97" width="312.1" height="20" rx="10" fill="#b07219"/>
+    <text x="612" y="112" fill="#c0caf5" text-anchor="end">60.02%</text>
 
     <text x="32" y="146" fill="#c0caf5">Python</text>
     <rect x="138" y="131" width="520" height="20" rx="10" fill="#24283b"/>
-    <rect x="138" y="131" width="78.3" height="20" rx="10" fill="#3572A5"/>
-    <text x="612" y="146" fill="#c0caf5" text-anchor="end">15.06%</text>
+    <rect x="138" y="131" width="77.5" height="20" rx="10" fill="#3572A5"/>
+    <text x="612" y="146" fill="#c0caf5" text-anchor="end">14.90%</text>
 
     <text x="32" y="180" fill="#c0caf5">Rust</text>
     <rect x="138" y="165" width="520" height="20" rx="10" fill="#24283b"/>
-    <rect x="138" y="165" width="63.3" height="20" rx="10" fill="#dea584"/>
-    <text x="612" y="180" fill="#c0caf5" text-anchor="end">12.17%</text>
+    <rect x="138" y="165" width="62.6" height="20" rx="10" fill="#dea584"/>
+    <text x="612" y="180" fill="#c0caf5" text-anchor="end">12.05%</text>
 
     <text x="32" y="214" fill="#c0caf5">JavaScript</text>
     <rect x="138" y="199" width="520" height="20" rx="10" fill="#24283b"/>
-    <rect x="138" y="199" width="23.4" height="20" rx="10" fill="#f1e05a"/>
-    <text x="612" y="214" fill="#c0caf5" text-anchor="end">4.49%</text>
+    <rect x="138" y="199" width="23.1" height="20" rx="10" fill="#f1e05a"/>
+    <text x="612" y="214" fill="#c0caf5" text-anchor="end">4.45%</text>
 
     <text x="32" y="248" fill="#c0caf5">CSS</text>
     <rect x="138" y="233" width="520" height="20" rx="10" fill="#24283b"/>
-    <rect x="138" y="233" width="14.0" height="20" rx="10" fill="#563d7c"/>
-    <text x="612" y="248" fill="#c0caf5" text-anchor="end">2.69%</text>
+    <rect x="138" y="233" width="13.9" height="20" rx="10" fill="#563d7c"/>
+    <text x="612" y="248" fill="#c0caf5" text-anchor="end">2.67%</text>
 
     <text x="32" y="282" fill="#c0caf5">TypeScript</text>
     <rect x="138" y="267" width="520" height="20" rx="10" fill="#24283b"/>
-    <rect x="138" y="267" width="11.9" height="20" rx="10" fill="#3178c6"/>
-    <text x="612" y="282" fill="#c0caf5" text-anchor="end">2.29%</text>
+    <rect x="138" y="267" width="13.0" height="20" rx="10" fill="#3178c6"/>
+    <text x="612" y="282" fill="#c0caf5" text-anchor="end">2.49%</text>
 
     <text x="32" y="316" fill="#c0caf5">Outras</text>
     <rect x="138" y="301" width="520" height="20" rx="10" fill="#24283b"/>
-    <rect x="138" y="301" width="18.0" height="20" rx="10" fill="#8fbcbb"/>
-    <text x="612" y="316" fill="#c0caf5" text-anchor="end">3.46%</text>
+    <rect x="138" y="301" width="17.8" height="20" rx="10" fill="#8fbcbb"/>
+    <text x="612" y="316" fill="#c0caf5" text-anchor="end">3.42%</text>
 
   </g>
 </svg>
