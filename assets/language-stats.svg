@@ -13,8 +13,8 @@
 
     <text x="32" y="146" fill="#c0caf5">Python</text>
     <rect x="138" y="131" width="520" height="20" rx="10" fill="#24283b"/>
-    <rect x="138" y="131" width="105.1" height="20" rx="10" fill="#3572A5"/>
-    <text x="612" y="146" fill="#c0caf5" text-anchor="end">20.21%</text>
+    <rect x="138" y="131" width="105.2" height="20" rx="10" fill="#3572A5"/>
+    <text x="612" y="146" fill="#c0caf5" text-anchor="end">20.22%</text>
 
     <text x="32" y="180" fill="#c0caf5">Rust</text>
     <rect x="138" y="165" width="520" height="20" rx="10" fill="#24283b"/>
@@ -28,7 +28,7 @@
 
     <text x="32" y="248" fill="#c0caf5">CSS</text>
     <rect x="138" y="233" width="520" height="20" rx="10" fill="#24283b"/>
-    <rect x="138" y="233" width="13.4" height="20" rx="10" fill="#563d7c"/>
+    <rect x="138" y="233" width="13.3" height="20" rx="10" fill="#563d7c"/>
     <text x="612" y="248" fill="#c0caf5" text-anchor="end">2.57%</text>
 
     <text x="32" y="282" fill="#c0caf5">C#</text>
